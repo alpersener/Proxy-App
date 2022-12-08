@@ -159,9 +159,6 @@ button3 = tk.Button(master=frame,text="PROXY AÇIK",bg="green")
 button4=tk.Button(master=frame,text="PROXY KAPALI",bg="red")
 
 
-#entry1=customtkinter.CTkEntry(master=frame,placeholder_text="Username")
-#entry1.pack(pady=12,padx=10)
-
 button=customtkinter.CTkButton(master=frame,text="Proxy Aç",command=proxyAc)
 button.pack(pady=12,padx=10)
 
