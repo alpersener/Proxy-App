@@ -14,6 +14,6 @@ Proxy’i kapattıktan sonra düzgün olması açısından sadece çalışan pro
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #OCAK 2023 Güncelleme
 
-Projeye timer eklendi her 5 dakikada bir yeni bir messagebox açıp diğer proxy’e geçmek ister misiniz diye bildirim çıkıyor.Böylece 5 dakikada bir proxyleri isteğimize göre değiştirebiliyoruz.
-GetContent adında bir button var ve butona tıkladığı yeni bir pencere açılıyor ve entry kısmına url olarak http://www.ankara.gov.tr/ sitesini girip veri çekebiliyor ve çektiği veriyi yukarıda listbox’ta gösteriyor.Ayrı olarak veri çekebilmek için beatifulsoup kütüphanesini kullanıyor.
-
+Projeye timer eklendi ve her 5 dakikada bir yeni bir messagebox açıp diğer proxy’e geçmek ister misiniz? Diye bildirim çıkıyor böylelikle 5 dakikada bir proxyleri isteğimize göre değiştirebiliyoruz.
+GetContent adında bir button var ve butona tıkladığımızda yeni bir pencere açılıyor ve entry kısmına url olarak http://www.ankara.gov.tr/ girerek siteden veri çekip,çektiği veriyi yukarı yeni açılan pencerede üst taraftaki listbox’ta gösteriyor.
+Ayrı olarak veri çekmek için beatifulsoup kütüphanesini kullanılıyor.
