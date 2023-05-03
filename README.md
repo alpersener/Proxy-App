@@ -1,4 +1,4 @@
-# Python-Proxy-BitirmeProjesi
+# Python-with-Proxy-App
 #ARALIK 2022
 Şu anlık Python ile proxy’i yazdım..Ayrıca elimde olan Proxy ip’lerini ise internetten bulduğum free Proxy listelerinden çekip csv dosyasına getiriyorum.Yazdığım kodda csv dosyasını okuyup çalışan proxyleri console’a yazdırıyor çalışmayanlar ile çalışanları böylece görmüş oluyorum.Ardından çalışan proxy’leri başka bir csv dosyasına düzgün bir şekilde yazdırıyorum.
 
